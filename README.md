@@ -1,6 +1,6 @@
 # taxi-service
 
-![](C:\Users\BP2117575.EDU\Desktop\taxi-robot.jpg)
+![img.png](img.png)
 
 A simple web application that supports authentication, registration and others CRUD oparations:
 
